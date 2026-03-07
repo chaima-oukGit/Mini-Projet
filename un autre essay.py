@@ -1,1 +1,0 @@
-print("slam fellawn seg le monde n le python hahahahahahahaaaaaa")
